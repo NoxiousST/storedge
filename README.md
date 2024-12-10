@@ -1,0 +1,3 @@
+# storedge
+
+Inventory Management System
